@@ -2,7 +2,7 @@
 
 This project is a part of the Data Science Working Group.
 
--- Project Status: [Completed]
+Project Status: [Completed]
 Project Intro/Objective
 The purpose of this project is to discuss the house loan classification issue using machine learning algorithms. It is a financial domain study which is also a kind of imbalanced dataset machine learning problem. This study can help bank to detect potential loan loss.
 
